@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class FloidTortoiseAndHare {
+public class FloydTortoiseAndHare {
     public static void main(String[] args) {
         methodBrutForce(); // 399600 ns
         FloydMethod();  //1200 ns
